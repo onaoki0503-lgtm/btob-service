@@ -15,3 +15,8 @@
 出典：https://www.pexels.com/photo/hands-typing-on-a-laptop-6405641/
 利用条件：https://www.pexels.com/license/ （既存素材取得時2026-10-15確認）。
 写真の人物の推薦・受講実績とは扱わない。CSSのトリミングのみ。
+
+## 2026-10-17：講座紹介ページの端末表示
+
+- course-desktop-v17.jpg / course-mobile-v17.jpg：会社サイト https://intakingresources.com/jigyo-zukuri.html の公開画面。PC1280×800、スマートフォン390×740。講座紹介の実画面として使用。
+- 端末背景は既存course-work.jpgの作業イメージ。写真出典は同ファイルの記録を参照。本人の利用実績ではない。
