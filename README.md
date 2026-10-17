@@ -11,6 +11,7 @@
 ## ファイル
 
 - `index.html` / `styles.css` / `app.js` — 会社サイト、3事業、問い合わせフォーム。
+- `team-kaikei.html` / `team-kaikei.css` — チーム会計の利用実績とデータ保護、トップと事業紹介の実績欄。
 - `jigyo-zukuri.html` / `course-guide.css` / `course-guide.js` — 講座の解説と公開LPへの導線。
 - `assets/` — 公開サイトの画像・動画。写真の出典はassets/README.mdを参照。
 - `firebase.json` / `.firebaserc` — プロジェクト・サイトsesshu-shigenのHosting設定。
@@ -22,3 +23,7 @@
 `firebase deploy --only hosting --project sesshu-shigen`
 講座の詳細・お問い合わせ先は https://sesshu-jigyo-course.web.app/ 。日程予約APIは保留中。
 社内計画書・ログ・認証情報は公開リポジトリとHostingに含めない。
+
+## チーム会計の実績表示
+
+利用団体数は2026年10月14日時点の公表値（1,000以上）。対策は https://teamkaikei.jp/security および https://teamkaikei.jp/security-policy の公開説明に基づく。SECURITY ACTION二つ星は自己宣言として表記し、第三者認証と扱わない。
