@@ -20,3 +20,5 @@
 
 - course-desktop-v17.jpg / course-mobile-v17.jpg：会社サイト https://intakingresources.com/jigyo-zukuri.html の公開画面。PC1280×800、スマートフォン390×740。講座紹介の実画面として使用。
 - 端末背景は既存course-work.jpgの作業イメージ。写真出典は同ファイルの記録を参照。本人の利用実績ではない。
+
+- 第18版：course-desktop-v17.jpgとcourse-mobile-v17.jpgは履歴素材として保管し、事業一覧では使用しない。元の会計・ノート画面、自然写真・プリン画像の構図へ復元。
