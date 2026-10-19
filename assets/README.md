@@ -24,3 +24,14 @@
 - 第18版：course-desktop-v17.jpgとcourse-mobile-v17.jpgは履歴素材として保管し、事業一覧では使用しない。元の会計・ノート画面、自然写真・プリン画像の構図へ復元。
 
 - ai-support-photo-v19.png：2026-10-17に代表から提供・掲載指定されたAI導入支援のイメージ写真。実際の社員・顧客・利用実績を示す写真ではない。640×427、提供PNGをそのまま使用。
+
+## 第21版：講座紹介の実写素材
+
+- `course-intro-work-01.jpg`〜`course-intro-work-06.jpg` — 既存講座LPの`hero-work-01.jpg`〜`hero-work-06.jpg`を同一バイトで複製。新たな画像取得・AI加工はない。
+- 01 Pavel Danilyuk： https://www.pexels.com/photo/hands-typing-on-a-laptop-6405641/
+- 02 Arina Krasnikova： https://www.pexels.com/photo/a-man-sitting-on-a-desk-with-wireless-devices-writing-on-a-notebook-5712086/
+- 03 Mizuno K： https://www.pexels.com/photo/woman-working-with-laptop-in-cafe-13735905/
+- 04 Anna Tarazevich： https://www.pexels.com/photo/a-man-making-coffee-4927146/
+- 05 Amar Preciado： https://www.pexels.com/photo/chef-preparing-food-in-the-kitchen-18337050/
+- 06 Yan Krukau： https://www.pexels.com/photo/hands-of-a-potter-working-with-clay-on-a-pottery-wheel-6611403/
+- Pexels License https://www.pexels.com/license/ 。講座LPで確認済みの仕事イメージ素材。受講者・導入実績・推薦とは扱わない。出典正本：content/AI事業構築講座/lp/dist/assets/写真出典.md。
