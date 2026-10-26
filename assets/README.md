@@ -1,6 +1,6 @@
 # 公開素材
 
-> **最終更新日**: 2026-10-26
+> **最終更新日**: 2026-10-17
 > **更新者**: AI (Codex)
 
 ## ファイル
@@ -35,5 +35,3 @@
 - 05 Amar Preciado： https://www.pexels.com/photo/chef-preparing-food-in-the-kitchen-18337050/
 - 06 Yan Krukau： https://www.pexels.com/photo/hands-of-a-potter-working-with-clay-on-a-pottery-wheel-6611403/
 - Pexels License https://www.pexels.com/license/ 。講座LPで確認済みの仕事イメージ素材。受講者・導入実績・推薦とは扱わない。出典正本：content/AI事業構築講座/lp/dist/assets/写真出典.md。
-
-- `teamkaikei-devices-v22.webp` — 実画面を表示した薄型ノートPCとスマホのBlender画像（2400×1600、透過）。代表提供の端末写真を形状の参考に使用。PC・スマホ間に隙間を確保し、個人情報は除外。
